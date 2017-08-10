@@ -595,6 +595,23 @@ const vmB = new Vue({
 
 ---
 
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/5spw91ujd6qowzxb9nah.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
+<div class="dark-bg">
+  <h1>Starter Project Repos and Videos</h1>
+</div>
+
+----
+
+## Starter Projects and Videos
+* [Basic Vue Starter](https://github.com/w3cj/basic-vue-starter)
+  * No build tools required. Uses http-vue-loader
+* [Basic Vuetify.js Starter](https://github.com/w3cj/basic-vue-vuetify-starter)
+* Video - [OverVue of Vuetify.js](https://www.youtube.com/watch?v=HHw3-200PYg)
+* Video - [OverVue of ES2015/next, babel, eslint and Webpack with CJ Reynolds](https://www.youtube.com/watch?v=0UFqJEtXzbc)
+
+---
+
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/ez3tqe8xzerp9tark1m1.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
 <div class="dark-bg">
