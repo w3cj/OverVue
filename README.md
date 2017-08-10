@@ -269,9 +269,9 @@ Simple, minimal core with an incrementally adoptable stack that can handle apps 
 * Vue.js CLI
 * Vue.js Directives
 * Vue.js Components
-* Vue.js Router
-* Vue.js Reactivity
-* Vue.js State Management
+* Vue.js Router*
+* Vue.js Reactivity*
+* Vue.js State Management*
 
 ---
 
