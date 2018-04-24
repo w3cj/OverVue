@@ -10,32 +10,23 @@
 
 # An Over<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" style="height:70px;margin:-1px" class="slide-img" />ue of
 
-<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" style="height:200px;" class="slide-img fragment grow"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" style="height:150px;" class="slide-img fragment grow"/>
 
 <center>
-  <div style="background:rgba(0,0,0,0.8);width:400px;padding:20px;font-size:0.6em !important;">
-    <h3>By CJ R.</h3>
-    <p><code>@cj</code> on Denver Devs</p>
-    <p><code>cj@null.computer</code></p>
-    <p>git.io/w3cj</p>
+  <div style="background:rgba(0,0,0,0.8);width:400px;padding:20px;font-size:0.8em !important;">
+    <code>@cj</code> on Denver Devs
+    <br />
+    <code>cj@null.computer</code>
+    <br />
+    git.io/w3cj
+    <br />
+    <br />
+    w3cj.now.sh
+    <br />
+    <br />
+    YouTube.com/c/CodingGardenWithCJ
   </div>
 </center>
-
----
-
-<!-- .slide: data-background-video="https://media.giphy.com/media/26BGM86XngBjKOqXu/giphy.mp4" data-background-video-loop="loop" data-background-video-muted -->
-
-<div style="background:rgba(0,0,0,0.8);margin-bottom:180px;">
-  <h2>Huge thanks to YOU!</h2>
-</div>
-
----
-
-<!-- .slide: data-background-video="https://media.giphy.com/media/l3vR4yk0X20KimqJ2/giphy.mp4" data-background-video-loop="loop" data-background-video-muted -->
-
-<div style="background:rgba(0,0,0,0.8);">
-  <h2>HUGE thanks to the organizers and volunteers of Develop Denver</h2>
-</div>
 
 ---
 
@@ -48,24 +39,30 @@
 * What is Vue.js?
 * A Brief History of Vue.js
 * An OverVue of Vue.js
-* Awesome Vue.js
 * Vue.js Community
 
 ---
 
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/52vy4yxt8yw76d2u8dsm.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/52vy4yxt8yw76d2u8dsm.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
-## whoami
+<div class="dark-bg fragment">
+  Hello friends! <span class="emoji">👋</span>
+  My name is <span class="red">CJ <span class="emoji">👽</span></span>.
+</div>
+
+<div class="dark-bg fragment">
+  I am a <strong>Full Stack Developer <span class="emoji">🥞</span></strong>,
+  <strong>Educator <span class="emoji">🏫</span></strong>, and
+  <strong>Maker <span class="emoji">🛠</span>
+  </strong> based in the <strong>Denver <span class="emoji">🏔</span></strong> area.
+</div>
 
 ----
 
-<!-- .slide: data-background="http://galvanize-wp.s3.amazonaws.com/wp-content/uploads/2016/09/14143218/Platte-Oct-2015-4593-min.jpg"  -->
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/c8t92d7m4t5w4af4gmnc.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
-<div style="background: rgba(0, 0, 0, 0.4);border-radius: 50px">
-  <h1>CJ</h1>
-  <h3>Lead Instructor, Principal Full Stack Developer</h3>
-  <h2>at</h2>
-  <img src="https://s3-us-west-2.amazonaws.com/galvanize.com-dev/galvanize-logo.svg" style="height:100px;width:auto;border:none;background:rgba(0, 0, 0, 0)">
+<div class="dark-bg">
+  I have worn many <span class="emoji">🎩</span>s in my career including <strong>Instructor <span class="emoji">👨‍🏫</span></strong>, <strong>Software Engineer <span class="emoji">🚂</span></strong>, <strong>QA Analyst <span class="emoji">🚨</span></strong>, <strong>System Administrator <span class="emoji">🔥</span></strong>, and <strong>Help Desk Consultant <span class="emoji">⛑</span></strong>.
 </div>
 
 ----
@@ -74,21 +71,57 @@
 
 ----
 
-# Many Hats
+<!-- .slide: data-background="http://galvanize-wp.s3.amazonaws.com/wp-content/uploads/2016/09/14143218/Platte-Oct-2015-4593-min.jpg"  -->
 
-* Help Desk Consultant
-* System Administrator
-* Quality Assurance Analyst
-* Software Engineer
+<div class="dark-bg">
+  <h3>Lead Instructor, Principal Full Stack Developer</h3>
+  <h2>at</h2>
+  <img src="https://s3-us-west-2.amazonaws.com/galvanize.com-dev/galvanize-logo.svg" style="height:100px;width:auto;">
+</div>
 
 ----
 
-## You might know me from:
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/ilek20y92dy1h38jx4j5.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
-* Node.js Meetup and DeverScript - [Security Best Practices with Node.js](https://github.com/w3cj/meetup-talks/blob/master/README.md#security-best-practices-with-nodejs-and-express)
-* DenverScript - [ECMAScript, TC39 and The Future of JavaScript](https://github.com/w3cj/meetup-talks/blob/master/README.md#ecmascript-tc39-and-the-future-of-javascript)
-* Denver Vue.js Meetup - [OverVue of Vuetify.js](https://github.com/w3cj/meetup-talks/blob/master/README.md#overvue-of-vuetifyjs)
-* Node.js Meetup - [Frontend Face-Off - Vanilla JS MVC](https://www.youtube.com/watch?v=ZBilSF7Oi1k)
+### I'm currently seeking my next adventure...
+
+----
+
+<!-- .slide: data-background-video="https://flixels.s3.amazonaws.com/flixel/8gg0il08d91lvga9gsme.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
+<a target="\_blank" href="https://makervan.life">
+  <img src="http://i.imgur.com/OYZKTgl.png">
+</a>
+
+<div class="dark-bg">
+  <h3>@makervanlife on instagram</h3>
+</div>
+
+----
+
+### Coding Garden with CJ
+
+YouTube.com/c/CodingGardingWithCJ
+
+Live stream schedule at https://coding.garden
+
+<img src="https://i.ytimg.com/vi/p_dji9WgSSU/maxresdefault.jpg" style="max-width:35%">
+<img src="https://i.ytimg.com/vi/lRE03MBZnuY/maxresdefault.jpg" style="max-width:35%">
+<img src="https://i.ytimg.com/vi/kChBiDhdSVA/maxresdefault.jpg" style="max-width:35%">
+<img src="https://i.ytimg.com/vi/5GfpGaHKfyo/maxresdefault.jpg" style="max-width:35%">
+
+----
+
+<!-- .slide: data-background="https://i.imgur.com/WPiNCVH.png"  -->
+
+<div class="dark-bg">
+  I am a co-organizer of the Den<img src="https://i.imgur.com/4sgyzVl.png" class="vue-logo-small" />er <img src="https://i.imgur.com/4sgyzVl.png" class="vue-logo-small" />ue Meetup
+</div>
+
+<div class="dark-bg fragment mt">
+  We are currently looking for food and drink sponsors.
+  We're always looking for full talk and lightning talk speakers.
+</div>
 
 ----
 
@@ -98,8 +131,8 @@
   * 3 Angular 1.x apps in production
 * ~1 year working with React/Redux
   * 1 React/Redux Application in Production
-* ~8 months working with Vue.js 2.x
-  * 3 Vue.js 2.x apps in production
+* ~1.5 years working with Vue.js 2.x
+  * 4 Vue.js 2.x apps in production
 * 10+ toy projects playing around with frontend frameworks
 
 ---
@@ -223,18 +256,19 @@ Simple, minimal core with an incrementally adoptable stack that can handle apps 
 
 ## Notable Events
 
-* February 2014 - Released on github
-* April 2015 - Tweet from Taylor Otwell (Creator of Laravel - PHP Framework)
+* February 2014 - [Released on github](http://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/)
+* April 2015 - [Tweet from Taylor Otwell](https://twitter.com/taylorotwell/status/590281695581982720?lang=en) (Creator of Laravel - PHP Framework)
 * September 2016 - Vue.js 2.0 released
-* June 2017 - The first official VueConf
+* June 2017 - The first official VueConf in Poland
+* 2017 - Single most starred repo on Github
+* February 2018 - VueConf Amsterdam
+* March 2018 - VueConf US - New Orleans
 
-[Hacker News - Vue.js: JavaScript MVVM made simple](https://news.ycombinator.com/item?id=7169288)
+----
 
-[Blog - First Week of Launching Vue.js](http://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/)
+### Growth of Vue
 
-[Taylor Otwell Tweet](https://twitter.com/taylorotwell/status/590281695581982720?lang=en)
-
-[Blog - Vue.js: 2015 in Review](http://blog.evanyou.me/2015/12/20/vuejs-2015-in-review/)
+![](./growth.png)
 
 ----
 
@@ -259,6 +293,7 @@ Simple, minimal core with an incrementally adoptable stack that can handle apps 
 * Initial D (v.2.2.0 released on 26 Feb 2017)
 * JoJo's Bizarre Adventure (v.2.3.0 released on 27 Apr 2017)
 * Kill la Kill (v.2.4.0 released on 13 Jul 2017)
+* Level E (v.2.5.0 released on 12 Oct 2017)
 
 ---
 
@@ -285,7 +320,7 @@ Simple, minimal core with an incrementally adoptable stack that can handle apps 
 new Vue({
   el: '#app',
   data: {
-    message: 'Hello Develop Denver!'
+    message: 'Hello Friends!'
   }
 })
 ```
@@ -310,8 +345,10 @@ new Vue({
 
 ----
 
+## Vue CLI v2
+
 ```sh
-# install vue-cli
+# install vue-cli v2
 $ npm install -g vue-cli
 # create a project using the webpack template
 $ vue init webpack my-project
@@ -337,6 +374,17 @@ $ npm run dev
 vue init username/repo my-project
 ```
 
+----
+
+## Vue CLI v3
+
+```sh
+# install vue-cli v3
+$ npm install -g @vue/cli
+# create a project and choose your plugins
+$ vue create my-project
+```
+
 ---
 
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/u08ojgwwslba0ghx53on.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
@@ -349,7 +397,7 @@ vue init username/repo my-project
 
 * Conditionals
   * v-if/v-else
-  * v-hide/v-show
+  * v-show
 * Loops
   * v-for
 * Handling User Input
@@ -419,17 +467,24 @@ Vue.component('talk-item', {
 
 
 ```js
-Vue.component('talk-item', {
-  props: ['talk'],
-  template: '<li>{{talk.title}}</li>'
-});
-
 new Vue({
   el: '#app',
   data: {
-    talks: ['OverVue of Vue.js', 'How To Be a Kick-Ass Teacher', 'Hold off burnout by creating art with code']
+    talks: [
+      'OverVue of Vue.js',
+      'VueConf Re-Cap'
+    ]
   }
 })
+```
+
+----
+
+```js
+Vue.component('talk-item', {
+  props: ['talk'],
+  template: '<li>{{talk}}</li>'
+});
 ```
 
 ----
@@ -590,25 +645,8 @@ const vmB = new Vue({
 ----
 
 <a href="https://github.com/vuejs/awesome-vue">
-<img src="https://raw.githubusercontent.com/vuejs/awesome-vue/master/logo.png" class="slide-img" />
+<img src="./awesome-vue.svg" class="slide-img" />
 </a>
-
----
-
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/5spw91ujd6qowzxb9nah.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
-
-<div class="dark-bg">
-  <h1>Starter Project Repos and Videos</h1>
-</div>
-
-----
-
-## Starter Projects and Videos
-* [Basic Vue Starter](https://github.com/w3cj/basic-vue-starter)
-  * No build tools required. Uses http-vue-loader
-* [Basic Vuetify.js Starter](https://github.com/w3cj/basic-vue-vuetify-starter)
-* Video - [OverVue of Vuetify.js](https://www.youtube.com/watch?v=HHw3-200PYg)
-* Video - [OverVue of ES2015/next, babel, eslint and Webpack with CJ Reynolds](https://www.youtube.com/watch?v=0UFqJEtXzbc)
 
 ---
 
@@ -631,61 +669,6 @@ const vmB = new Vue({
 
 ---
 
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/wqaw7x28jya043nz0piq.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
-
-<div class="dark-bg">
-  <h1>Shoutouts</h1>
-</div>
-
-----
-
-<!-- .slide: data-background="white" -->
-
-<img src="https://dvlp-dnvr-images.now.sh/dvlp_dnvr.svg" class="slide-img" style="background:white !important;height:500px" />
-
-----
-
-<!-- .slide: data-background="white" -->
-
-<img src="http://denverbargains.com/wp-content/uploads/2011/05/Artwork-Network-Logo.png" class="slide-img" style="background:white !important;height:500px" />
-
-----
-
-## Cass
-
-For painting my Vue Nail - without which this talk would not be possible.
-
-<img src="https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/586/Cass-Torske.jpg" class="slide-img" style="height:300px" />
-
-If you see her, please shower her with praise, gratitude and job offers.
-
-----
-
-<img src="https://s3-us-west-2.amazonaws.com/galvanize.com-dev/galvanize-logo.svg" style="height:200px;width:auto;border:none;background:rgba(0, 0, 0, 0)">
-
-## is Hiring!
-
-[https://gjobs.link/LeadInstructor](https://gjobs.link/LeadInstructor)
-
-----
-
-## Kim - How to Be A Kick-Ass Teacher up next right here!
-
-<img src="https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/594/Kim.jpg" class="slide-img" style="height:300px" />
-
-Do you want to teach a workshop, tutor a student, or be an instructor at a software bootcamp? You can learn the skills to be a great teacher.
-
----
-
-## Say Hello and Get a Sticker!
-
-* Come get a sticker!
-  * Tell me 1 thing you liked about the talk, and 1 thing I could improve on
-
-<img src="https://ih0.redbubble.net/image.393516706.5960/flat,1000x1000,075,f.u1.jpg" class="slide-img" />
-
----
-
 # ?
 
 ---
@@ -696,10 +679,17 @@ Do you want to teach a workshop, tutor a student, or be an instructor at a softw
 # Thank <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" style="height:70px;margin:-1px" class="slide-img" />ue!
 
 <center>
-  <div style="background:rgba(0,0,0,0.8);width:400px;padding:20px;font-size:0.6em !important;">
-    <h3>By CJ R.</h3>
-    <p><code>@cj</code> on Denver Devs</p>
-    <p><code>cj@null.computer</code></p>
-    <p>git.io/w3cj</p>
+  <div style="background:rgba(0,0,0,0.8);width:400px;padding:20px;font-size:0.8em !important;">
+    <code>@cj</code> on Denver Devs
+    <br />
+    <code>cj@null.computer</code>
+    <br />
+    git.io/w3cj
+    <br />
+    <br />
+    w3cj.now.sh
+    <br />
+    <br />
+    YouTube.com/c/CodingGardenWithCJ
   </div>
 </center>
